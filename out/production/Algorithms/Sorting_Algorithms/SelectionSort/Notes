@@ -1,0 +1,12 @@
+
+NESTED VARDIR
+
+* ---> Ilk elemandan son elemana kadar her elemani kendinden sonra
+gelen, kendinden kucuk elemanlarin en kucugu ile yer degistiriyoruz.
+(sayilar sirali geliyor)
+{1,2,3,10,6,4,7}---> {1,2,3,4,6,10,7} ---> {1,2,3,4,6,7,10} olmali
+
+* --> TIME COMPLEXITY =O(n2) ( en iyi veya en kotu durumda bile O(n2) ) (algoritmalarin arasinda en yavasidir)
+* --> MEMORY USAGE = 1 variable
+
+YAZIMI EN KOLYA OLANLARDANDIR

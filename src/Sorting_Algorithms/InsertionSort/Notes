@@ -1,0 +1,15 @@
+
+
+{ 2,4,5,3,1,6} --> {2,4,5,5,1,6} -->{2,4,4,5,1,6} --> {2,3,4,5,1,6} (kodu biraz zordur)
+
+*TIME COMPLEXITY --> O(n^2) (en iyi durumda O(n) , en kotu durumda O(n^2))
+(hizi selection sorttan 1 tik iyidir)
+
+*MEMORY USAGE --> 1 variable(kull)
+
+((Nerelerde bunlari kullanacagiz bunu mutlaka bilmeliyiz) hepsi icin gecerli
+insertion sort ile selection sort u nerede kullanacagimizi
+bilmeliyiz ama mulakatta kalkip bununla ilgli kod yazdirmaz.) DILAFRUZ
+
+Eger elime task verilip hangisini kullanacaksin derse Hoca Insertion sortu secerim
+diyor.

@@ -1,0 +1,17 @@
+Notes
+* ---> Time Complexit NEDIR ??(HIZI OLCUYOR)
+
+Time complexity bir algoritmanin calismasi icin gerekli olan suredir.
+Ancak buradaki sure, saniyeleri hesaplayarak degil, kac tane islem
+gerceklestirdigine gore hesaplanmaktadir. Uygulama tarafindan gerceklestirilen
+islem sayisi, veri setinin buyuklugune ve o veri setindeki elemanlarina,
+sirasina gore belirlenir.
+Dilafruz (sureyi olcuyoruz). (HIZI OLCUYORUZ)
+        (kac tane islem yapti)
+        (Veri setinin buyuklugune gore)
+
+
+    * ---> Big O Notation ( O(n) ) NEDIR ??
+
+    Big- O notation, bir algoritmanin performansini veya time complexity'sini
+    hesaplamak icin kullanilir.
